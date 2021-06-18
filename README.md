@@ -1,1 +1,117 @@
-# CV
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Gopal site is here">
+    <meta name="keywords" content="HTML,CSS,JAVASCRIPT">
+    <meta name="author" content="Gopal">
+
+    <title>Gopal's Personal Site</title>
+  </head>
+  <body>
+    <!-- Cheat sheet https://docs.emmet.io/cheatsheet-a5.pdf -->
+
+    <table>
+      <tr>
+        <td>  <img src="images/gopal.jpg" width="200" height="300" alt="Gopal image" /></td>
+        <td>
+            <h1>Gopal</h1>
+            <p>
+              <em>Student at <strong>The NorthCap University.</strong></em>
+            </p>
+
+            <p>
+              I'm an Android and Web developer and I prefer Kitkat over Dairy milkk silk lol.
+            </p>
+        </td>
+      </tr>
+    </table>
+
+    <hr size="3" noshade/>
+
+    <h3>Education and Qualification</h3>
+    <ul>
+      <li>
+        Udacity Andorid basic course
+      </li>
+      <li>
+        Udemly course Androi
+      </li>
+    </ul>
+
+
+    <hr size="3" noshade/>
+    <h3>My Hobbies</h3>
+    <!-- Search order list for for modification with it -->
+      <ol>
+        <li>
+          Cycling
+        </li>
+        <li>
+          Taekwondo
+        </li>
+      </ol>
+
+  <hr size="3" noshade>
+      <h3>3 Month Internship at ProCivil</h3>
+
+      <table cellspacing="20">
+        <thead>
+            <tr>
+              <th>Dates</th>
+              <th>Works</th>
+            </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2010-2013</td>
+            <td>Amazon SDE 3</td>
+          </tr>
+          <tr>
+            <td>2013-current</td>
+            <td>Amazon SDE 1</td>
+          </tr>
+        </tbody>
+      </table>
+
+    <hr size="3" noshade/>
+      <h3>Skills sets</h3>
+      <table border="2" cellspacing=5>
+            <tr>
+               <td>
+                 <table>
+                   <tbody>
+                     <tr>
+                       <td>Android</td>
+                       <td>🌟🌟🌟🌟🌟</td>
+                     </tr>
+                     <tr>
+                       <td>Java</td>
+                       <td>🌟🌟🌟🌟🌟</td>
+                     </tr>
+                   </tbody>
+                 </table>
+               </td>
+
+               <td>
+                 <table>
+                   <tbody>
+                     <tr>
+                       <td>MVC Spring</td>
+                       <td>🌟🌟🌟🌟</td>
+                     </tr>
+                     <tr>
+                       <td>Web Developer</td>
+                       <td>🌟🌟</td>
+                     </tr>
+                   </tbody>
+                 </table>
+               </td>
+            </tr>
+        </table>
+
+      <hr size="3" noshade/>
+      <h3><a href="contact.html">Contact</a></h3>
+  </body>
+</html>
